@@ -1,0 +1,19 @@
+.make{
+    display:flex;
+    justify-content:space-between;
+    color:white;
+    background-color:pink;
+    border-radius:500px;
+    border:1px solid black;
+}
+.h{
+    display:flex;
+    justify-content:space-between;
+}
+h1{
+    text-align:center;
+}
+.shopping{
+display:flex;
+    justify-content:space-between;
+}
